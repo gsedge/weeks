@@ -6,7 +6,7 @@ import { Dimensions, Image, StyleSheet, Text, TouchableOpacity, View } from 'rea
 import { ScrollView, TextInput } from "react-native-gesture-handler";
 import { THEMES } from "../../assets/themes";
 
-
+// dsdsdds
 const { width, height } = Dimensions.get("window");
 const vw = width / 100;
 const vh = height / 100;
